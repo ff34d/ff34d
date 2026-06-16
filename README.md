@@ -37,10 +37,3 @@ Frontend Engineer with 2+ years of commercial experience, specializing in fronte
 ### 📫 Let's Connect
 - 📧 Email: [urajimirudev@gmail.com](mailto:urajimirudev@gmail.com)
 - ✈️ Telegram: [@Buagette](https://t.me/Buagette)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ff34d&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
