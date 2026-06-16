@@ -23,13 +23,6 @@ Frontend Engineer with 2+ years of commercial experience, specializing in fronte
 - **Ecosystems:** Extensive commercial experience with Web Apps and Mini Apps (Telegram, VK).
 - **Codebase Evolution:** Integrating new features and business logic into existing codebases without full architectural rewrites.
 
-### 💼 Featured Work
-- **Glo & Panteon (Web & Mini Apps):** Architected modular frontend structures, role-based access, and complex state management for product interfaces.
-- **Vkusno i Tochka (SuperApp):** Led the frontend development of a VK Mini App, implementing multi-step user scenarios, scanner functionality, and API synchronization.
-- **Crypto Dashboard:** Built a Next.js application featuring auth, real-time crypto monitoring, and external API integration. 
-  👉 [View Project](https://github.com/ff34d/crypto-dashboard)
-- **Rapid Delivery Analytics:** Implemented interactive visualizations of product metrics and dynamic partner maps.
-
 ### 🎓 Education
 - **Yandex Practicum** | Frontend Developer *(2024)*
 - **Saratov State Technical University (SSTU)** | Computer Science & Applied IT *(Expected 2027)*
