@@ -2,6 +2,8 @@
 
 **Frontend Engineer** | Building scalable web applications, interactive user experiences, and Mini Apps.
 
+### Check [my website 🌳](https://ff34d.github.io/ff34d-page) for more information.
+
 ### 🚀 About Me
 Frontend Engineer with 2+ years of commercial experience, specializing in frontend architecture, state management, and building scalable Web & Mini Apps (Telegram, VK). I focus on bridging business requirements with robust technical implementations, taking features from technical design to stable production releases.
 
